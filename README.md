@@ -5,7 +5,7 @@
 * [Docker](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
 
-## How to use
+## How to use.
 
 ### Download this repository
 
